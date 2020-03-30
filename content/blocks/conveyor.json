@@ -1,0 +1,6 @@
+{
+// New mechanic of build
+	"requirements": [
+		{ "item": "conveyor", "amount": 1 }
+	]
+}

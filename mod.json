@@ -1,0 +1,10 @@
+{
+	"name" : "yem",
+	"displayName": "[darkgray]Yet [gray]Another [white]Mindustry",
+	"description" : "[gray]This mod add's a lot of new features and make mindustry yet harder and more difficulty.\n[white]> [gray]Needs younggam/multi-lib for work\n[white]> [gray]May be conflict with other mods/campaign",
+	"version" : "??? TOP SECRET",
+	"author" : "[darkgray]ymomfe",
+	"dependencies": [
+		"multi-lib"
+	]
+}
